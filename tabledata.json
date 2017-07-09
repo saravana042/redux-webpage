@@ -1,0 +1,27 @@
+[
+    {
+      "id":1,
+      "name":"Cisco",
+      "content":"Cisco Systems, Inc. (known as Cisco) is an American multinational technology conglomerate headquartered in San José, California, in the center of Silicon Valley, that develops, manufactures, and sells networking hardware, telecommunications equipment, and other high-technology services and products.",
+      "url":"http://www.intenseschool.com/images/cisco-logo.png"
+    },
+    {
+      "id":2,
+      "name":"Visibility Architectures",
+      "content":"A Visibility architecture is the way to solve these problems. Once you combine the security architecture with the visibility architecture, you will equip yourself with the necessary tools to properly visualize and diagnose the problems on your network.",
+      "url": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAJGAAAAJDg4ODRjYjgwLTAwMDEtNGZkZC1iMjk1LTExYWFiYWQzYTViNg.png"
+    },
+    {
+      "id":3,
+      "name":"Cisco Catalyst 6500 Series Switches",
+      "content":"Get resiliency, security, and more. Catalyst 6500 Series Switches are widely deployed campus backbone switches. They are optimized for Multigigabit Ethernet services to help you protect your network investment.",
+      "url":"http://www.cisco.com/c/en/us/products/switches/catalyst-6500-series-switches/index/_jcr_content/Grid/subcategory_atl/layout-subcategory-atl/anchor_info/image.img.jpg/1477378262539.jpg"
+    },
+    {
+      "id":4,
+      "name":"CISCO Network Administrator",
+      "content":"CCNA validates the ability to install, configure, operate, and troubleshoot medium-size route and switched computer networks, including implementation and verification of connections to remote sites in a WAN. CCNA curriculum includes basic mitigation of security threats, introduction to wireless networking concepts and terminology, and performance-based skills.",
+      "url":"http://www.lonestar.edu/departments/webservices/program_cisco.jpg"
+    }
+  ]
+

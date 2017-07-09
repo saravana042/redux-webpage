@@ -1,0 +1,33 @@
+.wrapper{
+	padding: 15px 0px;
+}
+.middle-cnt{
+	padding:20px;
+}
+.logo-name{
+	font-family: 'Pacifico', cursive;
+}
+.navbar-fixed-bottom{
+	bottom: 15px!important;
+}
+.text-help{
+	color:#bd4147;
+}
+form a{
+	margin-left:10px;
+}
+.Add-post{
+	float:right;
+	margin:15px 0px 15px 0px;
+}
+.delete-btn{
+	margin:0px 0px 0px 15px;
+	cursor:pointer;
+}
+.ftr-lg{
+	float:right;
+	color:#000000;
+}
+.ftr-lg:hover{
+	color:#000000;
+}
